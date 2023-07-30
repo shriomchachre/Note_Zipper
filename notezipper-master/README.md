@@ -7,8 +7,6 @@
 </tr>
 </table>
 
-## Demo
-Here is a working live demo :  https://notezipper.herokuapp.com/
 
 ## Built with 
 
